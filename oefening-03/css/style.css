@@ -1,0 +1,31 @@
+body {
+  border: 1px solid black;
+}
+
+header,
+footer {
+  width: 100%;
+}
+
+nav {
+  border: 1px solid black;
+  width: 75%;
+  margin-bottom: 0%;
+}
+
+h1 {
+  border: 1px solid black;
+  margin-top: 0%;
+}
+section {
+  width: 62%;
+}
+aside {
+  width: 38%;
+}
+nav {
+  width: 50%;
+}
+article {
+  border: 1px dotted red;
+}
