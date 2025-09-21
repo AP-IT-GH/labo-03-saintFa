@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify; /*  lijn de tekst uit, zowel links als rechts  */
+  font-size: 1rem;
+}
+
+header {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  background-color: black;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+nav {
+  background-color: red;
+  font-size: 1.5rem;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 0 0 10px 10px; /*  border radius op de onderste hoeken van 10px */
+}
+
+ul {
+  list-style: none;
+}
+
+ul li a {
+  color: white;
+}
+
+section {
+  padding: 60px 30px 60px 30px; /*  OF padding: 60px 30px;  */
+}
+
+footer {
+  background-color: #ccc;
+  font-size: 1rem;
+  padding: 60px 30px;
+  border: #000 5px dashed;
+}
